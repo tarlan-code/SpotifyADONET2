@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotifty", "Spotifty\Spotifty.csproj", "{32A8DCD2-2FEA-4078-ABBD-F441984DAA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A8DCD2-2FEA-4078-ABBD-F441984DAA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A8DCD2-2FEA-4078-ABBD-F441984DAA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A8DCD2-2FEA-4078-ABBD-F441984DAA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A8DCD2-2FEA-4078-ABBD-F441984DAA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA80EF2A-31CF-484E-817A-BDAD64E8A6BF}
+	EndGlobalSection
+EndGlobal
